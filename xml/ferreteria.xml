@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Productos>
+	<Tipos>
+		<Tipo nombre="Contrucción">
+			<Producto>
+				<nombre_prducto>Carretilla</nombre_prducto>
+				<marca_producto>Truper</marca_producto>
+				<clave>CAT-45ND</clave>
+				<codigo>11740</codigo>
+				<precio>$1,785</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Cepillo de alambre</nombre_prducto>
+				<marca_producto>Truper</marca_producto>
+				<clave>CAE-54</clave>
+				<codigo>11420</codigo>
+				<precio>$42</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>LLana</nombre_prducto>
+				<marca_producto>Truper</marca_producto>
+				<clave>LLP-6L</clave>
+				<codigo>15412</codigo>
+				<precio>$85</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Tlalachos</nombre_prducto>
+				<marca_producto>Truper</marca_producto>
+				<clave>NA</clave>
+				<codigo>NA</codigo>
+				<precio>$325</precio>
+			</Producto>
+		</Tipo>
+		<Tipo nombre="Mecánica">
+			<Producto>
+				<nombre_prducto>Bomba Manual</nombre_prducto>
+				<marca_producto>Truper</marca_producto>
+				<clave>BOM-TR</clave>
+				<codigo>14863</codigo>
+				<precio>$188</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Bomba Manual</nombre_prducto>
+				<marca_producto>Truper</marca_producto>
+				<clave>BOM-TR</clave>
+				<codigo>14863</codigo>
+				<precio>$188</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Bomba Manual</nombre_prducto>
+				<marca_producto>Truper</marca_producto>
+				<clave>BOM-TR</clave>
+				<codigo>14863</codigo>
+				<precio>$188</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Arco de Solera</nombre_prducto>
+				<marca_producto>Pretul</marca_producto>
+				<clave>APS-12</clave>
+				<codigo>20017</codigo>
+				<precio>$90</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Juego de Herramientsd</nombre_prducto>
+				<marca_producto>Pretul</marca_producto>
+				<clave>SET-132</clave>
+				<codigo>24223</codigo>
+				<precio>$1,015</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Remachadora 10"</nombre_prducto>
+				<marca_producto>Truper</marca_producto>
+				<clave>RE-9</clave>
+				<codigo>17960</codigo>
+				<precio>$160</precio>
+			</Producto>
+		</Tipo>
+		<Tipo nombre="Carga">
+			<Producto>
+				<nombre_prducto>Polipasto 1 Ton</nombre_prducto>
+				<marca_producto>Truper</marca_producto>
+				<clave>POL-1</clave>
+				<codigo>16824</codigo>
+				<precio>$2,350</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Sujetadores Con Matraca 2000KG</nombre_prducto>
+				<marca_producto>Truper</marca_producto>
+				<clave>SU-1000C</clave>
+				<codigo>19285</codigo>
+				<precio>$350</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Tensores Elasticos</nombre_prducto>
+				<marca_producto>Pretul</marca_producto>
+				<clave>TENS-8</clave>
+				<codigo>22021</codigo>
+				<precio>$150</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Diablo 300KG</nombre_prducto>
+				<marca_producto>Pretul</marca_producto>
+				<clave>DIA-300</clave>
+				<codigo>44477</codigo>
+				<precio>$1,550</precio>
+			</Producto>
+			<Producto>
+				<nombre_prducto>Carro de Carga Plegable</nombre_prducto>
+				<marca_producto>Pretul</marca_producto>
+				<clave>DIA-150P</clave>
+				<codigo>48595</codigo>
+				<precio>$1,050</precio>
+			</Producto>
+		</Tipo>
+	</Tipos>
+</Productos>
